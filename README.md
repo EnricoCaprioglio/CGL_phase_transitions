@@ -1,6 +1,6 @@
 # CGL_phase_transitions
 
-Fun study of phase transitions in Conways Game of Life with structural perturbation.
+Fun study of phase transitions in Conway's Game of Life with structural perturbation.
 The structural perturbation is introduced in the form of asynchronous update, tuned by the asynchronous parameter a. In practice, at each update, a cell is updated with probability a or it remains in the same state with probability 1 - a, thus a \in [0, 1].
 This update rule with parameter a is included in the function M-file async_update.m.
 
