@@ -5,7 +5,7 @@ The structural perturbation is introduced in the form of asynchronous update, tu
 This update rule with parameter a is included in the function M-file async_update.m.
 
 In the second code cell of M-file CGL_async_simulation.m, the average density average_rho_array is computed for different parameters a once the systems has reached an approximate
-steady state. The steady state is only qualitatively definned in the literature [3, 1]. Thus, we assume the system to be in a steady state after approximately 1000 asynchronous updates.
+steady state. The steady state is only qualitatively defined in the literature [1, 2]. Thus, we assume the system to be in a steady state after approximately 1000 asynchronous updates.
 
 ## References
 [1] N. Fatès, "Does Life Resist Asynchrony?" Springer London, 2010.
