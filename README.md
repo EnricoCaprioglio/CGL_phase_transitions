@@ -9,4 +9,5 @@ steady state. The steady state is only qualitatively defined in the literature [
 
 ## References
 [1] N. Fatès, "Does Life Resist Asynchrony?" Springer London, 2010.
+
 [2] R. Blok and B. Bergersen, "Synchronous versus asynchronous updating in the \game of life", Phys. Rev. E, vol. 59, 04 1999.
